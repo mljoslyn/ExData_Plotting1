@@ -1,5 +1,5 @@
 ## plot2.R
-##    Script to read in househouse power consumption data and
+##    Script to read in household power consumption data and
 ##    plot the active power usage over a two day timeframe (Feb 1 & 2 2007)
 ##
 

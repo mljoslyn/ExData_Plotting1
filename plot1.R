@@ -1,5 +1,5 @@
 ## plot1.R
-##    Script to read in househouse power consumption data and
+##    Script to read in household power consumption data and
 ##    plot the frequency of occurance ocross the active power usage
 ##
 

@@ -1,6 +1,7 @@
-## plot3.R
-##    Script to read in househouse power consumption data and
-##    plot the active power usage over a two day timeframe (Feb 1 & 2 2007)
+## plot4.R
+##    Script to read in household power consumption data and
+##    plot the power usage, sub metering, and voltage data
+##    in a series of 4 plots.
 ##
 
 ## Read the data and convert the date time fields
